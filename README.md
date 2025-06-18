@@ -12,5 +12,5 @@ This is a Streamlit app that displays real-time stock prices with candlestick ch
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/GarrettOlitsky/GarrettOlitsky.git
-   cd GarrettOlitsky
+   git clone https://github.com/GarrettOlitsky/Fibonacci_Dashbaord.git
+   cd Fibonacci_Dashbaord
